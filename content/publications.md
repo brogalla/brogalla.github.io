@@ -18,7 +18,7 @@ sections:
   - block: portfolio
     content:
       title: Publications
-      text: |-
+     # text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
@@ -27,6 +27,6 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 ---
