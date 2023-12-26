@@ -1,5 +1,4 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
 date: 2022-10-24
 type: landing
@@ -36,7 +35,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
- - block: markdown
+# - block: markdown
     content:
       title: Gallery
       subtitle: ''
