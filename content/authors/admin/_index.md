@@ -1,9 +1,9 @@
 ---
 # Birgit Rogalla
-title: Dr.
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Birgit Rogalla
 
 # Full name (for SEO)
 first_name: Birgit
