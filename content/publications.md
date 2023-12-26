@@ -18,16 +18,13 @@ sections:
   - block: portfolio
     content:
       title: Publications
-  #    text: |-
-  #      {{% callout note %}}
-  #      Quickly discover relevant content by [filtering publications](./publication/).
-  #      {{% /callout %}}
+      text: 
       filters:
         folders:
           - publication
         exclude_featured: true
     design:
       columns: '1'
-      view: showcase # citation
+      view: showcase 
       flip_alt_rows: false
 ---
