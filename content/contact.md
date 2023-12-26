@@ -1,4 +1,4 @@
-  - block: contact
+#  - block: contact
     id: contact
     content:
       title: Contact
@@ -48,3 +48,4 @@
           captcha: false
     design:
       columns: '2' 
+i
