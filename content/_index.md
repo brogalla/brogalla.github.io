@@ -39,10 +39,10 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  <!-- - block: skills
     content:
       title: Skills
       text: ''
@@ -106,24 +106,6 @@ sections:
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
@@ -239,7 +221,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
         city: Stanford
@@ -251,7 +232,7 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
+     # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'  
@@ -279,5 +260,5 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '2'
+      columns: '2' -->
 ---
