@@ -79,13 +79,13 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # graduation-cap, Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=YPTLkLEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/brogalla/
-  - icon: linkedin
+  # - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
@@ -98,6 +98,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+<br>
 
 Birgit Rogalla is a .... Her research interests include ....
 {style="text-align: justify;"}
