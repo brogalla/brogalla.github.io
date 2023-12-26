@@ -28,5 +28,6 @@ sections:
         exclude_featured: true
     design:
       columns: '1'
-      view: citation
+      view: showcase # citation
+      flip_alt_rows: false
 ---
