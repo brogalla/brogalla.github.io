@@ -101,5 +101,8 @@ highlight_name: true
 
 <br>
 
-Birgit Rogalla is a .... Her research interests include ....
+My current and past research spans from the Arctic to the Antarctic, and I am most interested in interdisciplenary studies incorporating models and observations, to understand the impacts of climate change on polar regions. I also dabbled in fluvial geomorphology and experimental cosmology before arriving in oceanography.
+<br>
+<br>
+When I'm not sitting in front of a computer, I'm probably somewhere outside and when I'm lucky in the mountains.
 {style="text-align: justify;"}
