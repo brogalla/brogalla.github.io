@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: portfolio
     content:
-      title: 
+      title: Publications 
       text: 
       filters:
         folders:
@@ -15,7 +15,7 @@ sections:
     design:
       columns: '2'
       view: citation
-      spacing:
+      # spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['40px', '40px', '40px', '40px']
+      #  padding: ['40px', '40px', '40px', '40px']
 ---
