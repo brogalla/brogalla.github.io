@@ -21,9 +21,10 @@ tags:
 - Model-observation
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: URL
+   url: "https://doi.org/10.1029/2021GB007058"
+   
 url_pdf: 'https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021GB007058'
 url_code: ''
 url_dataset: 'https://www.bodc.ac.uk/geotraces/data/idp2017/'
