@@ -2,7 +2,7 @@
 title: Continental and glacial runoff fingerprints in the Canadian Arctic Archipelago,
   the Inuit Nunangat ocean
 authors:
-- '**Birgit Rogalla**'
+- Birgit Rogalla
 - Susan E. Allen
 - Manuel Colombo
 - Paul G. Myers

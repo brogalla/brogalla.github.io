@@ -2,7 +2,7 @@
 title: 'Sediments in sea ice drive the Canada Basin surface Mn maximum: insights from
   an Arctic Mn ocean model'
 authors:
-- '**Birgit Rogalla**'
+- Birgit Rogalla
 - Susan E. Allen
 - Manuel Colombo
 - Paul G. Myers

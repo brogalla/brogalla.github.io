@@ -1,11 +1,12 @@
 ---
 title: 'Tracing ocean pathways: modelling manganese and lead in the Canadian Arctic'
 authors:
-- '**Birgit Rogalla**'
+- Birgit Rogalla
 date: '2023-07-07'
 publishDate: '2023-12-27T11:06:13.150791Z'
 publication_types:
 - thesis
+publication: '*PhD Thesis*'
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
