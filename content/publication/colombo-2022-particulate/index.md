@@ -23,8 +23,8 @@ tags:
 featured: false
 
 links:
-# - name: PDF
-#   url: "https://github.com/brogalla/brogalla.github.io/blob/main/content/publication/colombo-2022-particulate/2022-GCA-particulate-trace-elements.pdf"
+ - name: PDF
+   url: "https://github.com/brogalla/brogalla.github.io/blob/main/content/publication/colombo-2022-particulate/2022-GCA-particulate-trace-elements.pdf"
  - name: URL
    url: "https://doi.org/10.1016/j.gca.2022.02.013"
    
