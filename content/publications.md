@@ -7,8 +7,7 @@ sections:
   - block: markdown
     content:
       title: Publications
-      subtitle: 
-      text: (Google Scholar)[https://scholar.google.ca/citations?user=YPTLkLEAAAAJ&hl=en]
+      text: 
   - block: portfolio
     content:
       title:  
