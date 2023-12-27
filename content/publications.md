@@ -4,6 +4,11 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: Publications
+      subtitle: 
+      text: (Google Scholar)[https://scholar.google.ca/citations?user=YPTLkLEAAAAJ&hl=en]
   - block: portfolio
     content:
       title:  
