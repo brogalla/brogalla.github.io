@@ -1,6 +1,6 @@
 ---
-title: Antarctic Melt Attribution 
-summary: Disentangling human influence from natural variation in the ocean-driven melt of the West Antarctic Ice Sheet
+title: Antarctic Ice Sheet Melt Attribution 
+summary: Disentangling human influence from natural variation in the ocean-driven melt of the West Antarctic Ice Sheet.
 tags:
   - Antarctic
   - Ocean-ice
