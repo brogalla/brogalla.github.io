@@ -6,8 +6,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      subtitle: Publications
-      text: <h2> Publications </h2>
+      title: Publications
+      text: 
+    design:
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0px', '0px', '0px', '0px']
   - block: portfolio
     content:
       title:  
