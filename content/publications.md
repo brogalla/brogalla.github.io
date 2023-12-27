@@ -24,7 +24,6 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: citation
-      flip_alt_rows: false
 ---
