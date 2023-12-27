@@ -7,7 +7,7 @@ sections:
   - block: portfolio
     content:
       title: 
-      text: 
+      text: [Google Scholar](https://scholar.google.ca/citations?user=YPTLkLEAAAAJ&hl=en)
       filters:
         folders:
           - publication
