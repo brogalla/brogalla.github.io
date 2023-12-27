@@ -2,7 +2,7 @@
 title: Arctic Biogeochemistry
 summary: Trace element sources and sinks
 tags:
-  - Arctic Ocean
+  - Arctic-Ocean
   - Biogeochemistry
   - Modelling
 date: '2023-06-01T00:00:00Z'
