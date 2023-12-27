@@ -23,12 +23,10 @@ tags:
 featured: false
 
 links:
- - name: PDF
-   url: "https://github.com/brogalla/brogalla.github.io/blob/main/content/publication/colombo-2022-particulate/2022-GCA-particulate-trace-elements.pdf"
  - name: URL
    url: "https://doi.org/10.1016/j.gca.2022.02.013"
    
-url_pdf: ''
+url_pdf: 'https://github.com/brogalla/brogalla.github.io/blob/main/content/publication/colombo-2022-particulate/2022-GCA-particulate-trace-elements.pdf'
 url_code: ''
 url_dataset: 'https://www.bodc.ac.uk/geotraces/data/idp2021/'
 url_poster: ''

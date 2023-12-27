@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: portfolio
     content:
-      title: Publications
+      title: 
       text: 
       filters:
         folders:
