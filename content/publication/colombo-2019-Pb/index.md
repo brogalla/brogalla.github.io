@@ -15,7 +15,6 @@ publication: '*ACS Earth and Space Chemistry*'
 links:
 - name: URL
   url: https://doi.org/10.1021/acsearthspacechem.9b00083
----
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
