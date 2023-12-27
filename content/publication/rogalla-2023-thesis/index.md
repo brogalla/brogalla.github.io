@@ -1,8 +1,8 @@
 ---
 title: 'Tracing ocean pathways: modelling manganese and lead in the Canadian Arctic'
 authors:
-- Birgit Rogalla
-date: '2023-01-01'
+- **Birgit Rogalla**
+date: '2023-07-07'
 publishDate: '2023-12-27T11:06:13.150791Z'
 publication_types:
 - thesis
@@ -38,14 +38,8 @@ image:
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-projects: [Arctic-biogeochemistry]
+projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
 ---
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

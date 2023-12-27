@@ -2,12 +2,12 @@
 title: 'Sediments in sea ice drive the Canada Basin surface Mn maximum: insights from
   an Arctic Mn ocean model'
 authors:
-- Birgit Rogalla
-- Susan E Allen
+- **Birgit Rogalla**
+- Susan E. Allen
 - Manuel Colombo
-- Paul G Myers
-- Kristin J Orians
-date: '2022-01-01'
+- Paul G. Myers
+- Kristin J. Orians
+date: '2022-08-06'
 publishDate: '2023-12-27T11:06:13.132664Z'
 publication_types:
 - article-journal
@@ -46,14 +46,8 @@ image:
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-projects: [trace-element-cycling]
+projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
 ---
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

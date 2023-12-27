@@ -2,12 +2,12 @@
 title: Continental and glacial runoff fingerprints in the Canadian Arctic Archipelago,
   the Inuit Nunangat ocean
 authors:
-- Birgit Rogalla
-- Susan E Allen
+- **Birgit Rogalla**
+- Susan E. Allen
 - Manuel Colombo
-- Paul G Myers
-- Kristin J Orians
-date: '2023-01-01'
+- Paul G. Myers
+- Kristin J. Orians
+date: '2023-04-25'
 publishDate: '2023-12-27T11:06:13.144784Z'
 publication_types:
 - article-journal
@@ -46,7 +46,7 @@ image:
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-projects: [Arctic-biogeochemistry]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
