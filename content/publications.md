@@ -24,7 +24,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
-      view: showcase 
+      columns: '2'
+      view: card
       flip_alt_rows: false
 ---
