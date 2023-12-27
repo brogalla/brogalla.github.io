@@ -30,7 +30,7 @@ bio: My research interests include ...
 # Interests to show in About widget
 interests:
   - Polar oceanography
-  - Land-ocean and ice-ocean interactions
+  - Ice-ocean dynamics
   - Trace element cycling
   - Numerical modelling
   - Model-observation interface
@@ -74,7 +74,7 @@ social:
     link: https://twitter.com/BirgitRogalla
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap  # graduation-cap, Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=YPTLkLEAAAAJ&hl=en
