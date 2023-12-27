@@ -23,7 +23,7 @@ featured: false
 
 links:
  - name: URL
-   url: "[https://doi.org/10.1029/2022GB007320](https://doi.org/10.1029/2022JG007072)"
+   url: "https://doi.org/10.1029/2022JG007072"
  - name: Github
    url: "https://github.com/brogalla/Mn-CAA-terrestrial-runoff"
    
