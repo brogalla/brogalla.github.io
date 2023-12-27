@@ -11,7 +11,7 @@ date: '2016-04-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
+image: 
   caption: Growth of the field of trace element and macronutrient observations from large coordinated international ocean research programmes based on annual number of publications associated with these programs.
   focal_point: Smart
 

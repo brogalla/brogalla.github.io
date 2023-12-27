@@ -30,9 +30,10 @@ bio: My research interests include ...
 # Interests to show in About widget
 interests:
   - Polar oceanography
+  - Land-ocean and ice-ocean interactions
   - Trace element cycling
   - Numerical modelling
-  - Model-obseration interface
+  - Model-observation interface
 
 # Education to show in About widget
 education:
@@ -44,7 +45,6 @@ education:
       institution: University of British Columbia
       year: 2016
 
-# Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
 #  - name: Technical
@@ -65,10 +65,6 @@ education:
 #        icon: database
 #        icon_pack: fas
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -88,9 +84,6 @@ social:
   # - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   #- icon: cv
   #  icon_pack: ai
   #  link: uploads/resume.pdf
