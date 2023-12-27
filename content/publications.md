@@ -6,8 +6,8 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Publications
-      text: 
+      subtitle: Publications
+      text: <h2> Publications </h2>
   - block: portfolio
     content:
       title:  
