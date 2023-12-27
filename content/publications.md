@@ -21,7 +21,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       background:
       # Choose a color such as from https://html-color-codes.info
         color: 'white'
