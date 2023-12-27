@@ -28,5 +28,5 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['10px', '40px', '40px', '40px']
+        padding: ['10px', '0px', '0px', '0px']
 ---

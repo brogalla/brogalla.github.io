@@ -1,6 +1,6 @@
 ---
 # Name
-title: Birgit Rogalla
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: 
