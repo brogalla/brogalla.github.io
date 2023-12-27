@@ -7,7 +7,7 @@ sections:
   - block: portfolio
     content:
       title:  
-      text: <h1> Publications </h1>
+      text:
       filters:
         folders:
           - publication
