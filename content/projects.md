@@ -48,7 +48,7 @@ sections:
         - name: All
           tag: '*'
         - name: Arctic 
-          tag: Arctic
+          tag: Arctic-Ocean
         - name: Antarctic
           tag: Antarctic
     design:
