@@ -1,6 +1,6 @@
 ---
 # Name
-title: 
+title: Birgit Rogalla 
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Oceanography
+    - course: Ph.D. in Oceanography
       institution: University of British Columbia
       year: 2023
-    - course: BSc in Physics
+    - course: B.Sc. (Hons.) in Physics
       institution: University of British Columbia
       year: 2016
 
@@ -68,7 +68,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '/contact/'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BirgitRogalla
