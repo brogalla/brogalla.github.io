@@ -11,7 +11,7 @@ sections:
     design:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0px', '0px', '0px', '0px']
+        padding: ['20px', '0px', '0px', '0px']
   - block: portfolio
     content:
       title:  
@@ -23,7 +23,7 @@ sections:
     design:
       columns: '2'
       view: citation
-      # spacing:
+      spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-      #  padding: ['40px', '40px', '40px', '40px']
+        padding: ['0px', '40px', '40px', '40px']
 ---
