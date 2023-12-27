@@ -1,6 +1,6 @@
 ---
-title: Inuit Nunangat (Canadian Arctic Archipelago) land-ocean interactions
-summary: Trace element sources and sinks
+title: Inuit Nunangat land-ocean interactions
+summary: Modification of water that transits through the Canadian Arctic Archipelago by terrestrial runoff.
 tags:
   - Arctic-Ocean
   - Biogeochemistry
