@@ -5,7 +5,7 @@ title: 'Particulate trace element distributions along the Canadian Arctic GEOTRA
 authors:
 - Manuel Colombo
 - Jingxuan Li
-- **Birgit Rogalla**
+- '**Birgit Rogalla**'
 - Susan E. Allen
 - Maria T. Maldonado
 date: '2022-01-01'

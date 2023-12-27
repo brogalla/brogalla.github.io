@@ -2,7 +2,7 @@
 title: 'Canadian Arctic Archipelago shelf-ocean interactions: A major iron source to Pacific derived waters transiting to the Atlantic'
 authors:
 - Manuel Colombo
-- **Birgit Rogalla**
+- '**Birgit Rogalla**'
 - Jingxuan Li
 - Susan E. Allen
 - Kristin J. Orians
