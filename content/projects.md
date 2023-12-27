@@ -4,7 +4,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

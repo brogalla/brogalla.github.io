@@ -12,7 +12,7 @@ sections:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['40px', '0px', '0px', '0px']
-  - block: portfolio
+  - block: markdown # portfolio
     content:
       title:  
       text:
