@@ -3,7 +3,7 @@ title: 'Tracing Dissolved Lead Sources in the Canadian Arctic: Insights from the
   GEOTRACES Program'
 authors:
 - Manuel Colombo
-- **Birgit Rogalla**
+- '**Birgit Rogalla**'
 - Paul G. Myers
 - Susan E. Allen
 - Kristin J. Orians
