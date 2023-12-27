@@ -12,7 +12,7 @@ sections:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['40px', '0px', '0px', '0px']
-  - block: markdown # portfolio
+  - block: portfolio
     content:
       title:  
       text:
@@ -22,6 +22,9 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
+      background:
+      # Choose a color such as from https://html-color-codes.info
+        color: 'white'
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
