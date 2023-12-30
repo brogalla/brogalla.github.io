@@ -1,6 +1,6 @@
 ---
 title: Trace element cycling in the Arctic Ocean
-summary: Developed trace element ocean models to quantify the sources, sinks, and processes governing trace element distributions in the Canadian Arctic.
+summary: Developed trace element ocean models of manganese (Mn) and lead (Pb) to quantify the sources, sinks, and processes governing trace element distributions in the Canadian Arctic. Used simple 1D, more complex 3D, and lagrangian models to help inform and extend explanations of trace element observations.
 tags:
   - Arctic-Ocean
   - Model-observation
@@ -12,7 +12,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image: 
-  caption: Growth of the field of trace element and macronutrient observations from large coordinated international ocean research programmes based on annual number of publications associated with these programs.
+  caption: Schematic of key processes controlling dissolved Mn concentrations in the Canadian Arctic ocean.
   focal_point: Smart
 
 links:
