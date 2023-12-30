@@ -1,6 +1,6 @@
 ---
 title: Trace element cycling in the Arctic Ocean
-summary: Developing trace element models to quantify the sources, sinks, and processes governing trace element distributions.
+summary: Developed trace element ocean models to quantify the sources, sinks, and processes governing trace element distributions in the Canadian Arctic.
 tags:
   - Arctic-Ocean
   - Model-observation
