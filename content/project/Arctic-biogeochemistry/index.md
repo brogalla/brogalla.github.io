@@ -1,6 +1,6 @@
 ---
-title: Inuit Nunangat land-ocean interactions
-summary: Modification of water that transits through the Canadian Arctic Archipelago by terrestrial runoff.
+title: Tracing runoff and Atlantic water in the Inuit Nunangat ocean
+summary: Identified glacial and continental runoff influence on the composition of water that transits through the Canadian Arctic Archipelago using a manganese (Mn) model. Studied the extension of Atlantic water from Davis Strait into Baffin Bay and the Archipelago using a Pb model.
 tags:
   - Arctic-Ocean
   - Biogeochemistry
@@ -22,5 +22,6 @@ url_video: ''
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+Relevant publications:
+- Rogalla, B., Allen, S. E., Colombo, M., Myers, P. G., & Orians, K. J. (2023). Continental and glacial runoff fingerprints in the Canadian Arctic Archipelago, the Inuit Nunangat ocean. Journal of Geophysical Research: Biogeosciences, e2022JG007072.
+- Rogalla, B. (2023). Tracing ocean pathways: modelling manganese and lead in the Canadian Arctic (Doctoral dissertation, University of British Columbia).
