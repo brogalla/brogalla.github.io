@@ -5,7 +5,7 @@ tags:
   - Arctic-Ocean
   - Biogeochemistry
   - Modelling
-date: '2023-06-01T00:00:00Z'
+date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
