@@ -1,5 +1,5 @@
 ---
-title: Tracing runoff and Atlantic water in the Inuit Nunangat ocean
+title: Tracing land-ocean interactions and water masses in the Inuit Nunangat ocean
 summary: Identified glacial and continental runoff influence on the composition of water that transits through the Canadian Arctic Archipelago using a manganese (Mn) model. Studied the extension of Atlantic water from Davis Strait into Baffin Bay and the Archipelago using a Pb model.
 tags:
   - Arctic-Ocean
