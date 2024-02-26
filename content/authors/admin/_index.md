@@ -97,4 +97,3 @@ I am an ocean/ice modeller broadly interested in understanding the impacts of cl
 <br>
 <br>
 When I'm not sitting in front of a computer, I'm probably somewhere outside, ideally in the mountains.
-{style="text-align: justify;"}
